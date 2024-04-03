@@ -1,0 +1,10 @@
+/* .gradient-button {
+    background-color:#DBACF8;
+    border-radius:50px !important;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #c35cA7, #ffe553, #7371ef, #B40EFA);
+    --angle: 0deg;
+    border-image: linear-gradient(var(--angle), #c35cA7, #ffe553, #7371ef, #B40EFA) 1;
+    animation: 2s rotate linear infinite;
+} */

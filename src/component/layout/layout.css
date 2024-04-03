@@ -1,0 +1,14 @@
+.layout-heading {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.93);
+    height: 5.75rem;
+}
+
+.logo {
+    font-family: 'Khand';
+    /* font-size: 3.5rem; */
+    height: 5.75rem;
+    font-style: normal;
+    font-weight: 700;
+    height: 1.75rem;
+}
